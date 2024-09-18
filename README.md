@@ -9,9 +9,9 @@ https://ej2.syncfusion.com/angular/demos/#/bootstrap5/sparkline/default
 
 ## Project prerequisites
 Make sure that your machine has the following setup before starting to work on this project.
-- Visual Studio Code
-- Node.js
--Angular 6+
+* Visual Studio Code
+* Node.js
+* Angular 6+
 
 ## How to run this application
 To run this application, you need to first clone the `getting-started-with-the-angular-sparkline-chart-component` repository and then open it in Visual Studio Code. Now, simply build and run your project using `npm start` command to view the output.
