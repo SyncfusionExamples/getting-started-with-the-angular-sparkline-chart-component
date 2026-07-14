@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 import { SparklineModule, SparklineTooltipService } from '@syncfusion/ej2-angular-charts'
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, SparklineModule],
+  imports: [SparklineModule],
   providers: [SparklineTooltipService],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
